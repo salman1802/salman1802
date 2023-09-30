@@ -17,21 +17,27 @@ I'm a passionate Laravel and node web developer with a love for clean, elegant c
 
 Here are some of the projects I'm proud of:
 
-1. **[Project Name](link_to_project)** - A brief description of the project, its purpose, and the technologies used.
+1. **[Iuncta](https://iuncta.io/)** - 👨‍💻 Developer of Iuncta, an innovative solution transforming online shopping experiences. With expertise in Laravel, MySQL, PHP, REST APIs, Stripe, and OAuth0, I'm dedicated to redefining the digital realm. Join me on the journey to empower users to 'Value your identity' and create seamless transactions between consumers and beloved brands.
 
-2. **[Project Name](link_to_project)** - Describe the project, its challenges, and your contributions to it.
+2. **[Ebp Game](https://ebp-game.com/)** - Passionate developer behind a project assessing the impact of Evidence-Based Practice (EBP) learning through Game-Based Learning for nursing students, powered by Laravel, MySQL, PHP, HTML, CSS, JavaScript, jQuery, and Bootstrap.
 
-3. **[Project Name](link_to_project)** - Highlight the technologies, features, and any unique aspects of this project.
+3. **[Workflowbee](https://workflowbee.com/)** - Developer of WorkFlowBee, a tool designed to streamline product research, purchases, and preparation steps for Amazon Sellers, leveraging Laravel, MySQL, Amazon Keepa, JavaScript, jQuery, Bootstrap, and PHP.
 
-4. **[Project Name](link_to_project)** - Discuss the impact of this project and your role in its development.
+4. **[Klapty](https://www.klapty.com/)** - The developer behind Klapty, the #1 online tool and platform for creating and sharing virtual tours, serving over 80,000 users worldwide, powered by Laravel, MySQL, Stripe, PayPal, Google Analytics, JavaScript, jQuery, Bootstrap, and PHP.
 
 ## 📝 Blog
 
 I occasionally write about web development, Laravel, and other tech-related topics. Here are some of my recent blog posts:
 
-- [Title of Blog Post 1](link_to_blog_post) - A short description and key takeaways.
-- [Title of Blog Post 2](link_to_blog_post) - Summarize the content and why it's valuable.
-- [Title of Blog Post 3](link_to_blog_post) - Highlight your expertise in a specific area.
+- [Mastering AWS: Step-by-Step Guide to Launching an Ubuntu EC2 Instance for Web Hosting](https://its-me.in/blog/mastering-aws-step-by-step-guide-to-launching-an-ubuntu-ec2-instance-for-web-hosting) - Learn how to set up a powerful AWS Ubuntu EC2 instance for web hosting in this step-by-step guide. Master AWS with Apache, MySQL, PHP, and phpMyAdmin installation and configuration.
+- [Git Cheat Sheet](https://its-me.in/blog/git-cheat-sheet) - Mastering Version Control - A comprehensive Git cheat sheet for developers.
+- [Implementing Stripe Subscriptions with Webhooks in Laravel](https://its-me.in/blog/implementing-stripe-subscriptions-with-webhooks-in-laravel) - Learn how to implement Stripe subscriptions with webhooks in Laravel. This comprehensive tutorial covers subscription management, webhook integration, and database updates for Stripe subscriptions in Laravel applications.
+
+- [Generating Tokens and Refresh Tokens for Social Login in Larave](https://its-me.in/blog/generating-tokens-and-refresh-tokens-for-social-login-in-laravel) - Learn how to generate access tokens and refresh tokens for social login in Laravel using Laravel Passport. Enhance user authentication with social providers like Facebook, Google, and more.
+
+- [Generating Access Tokens and Refresh Tokens with Laravel Passport](https://its-me.in/blog/generating-access-tokens-and-refresh-tokens-with-laravel-passport) - Learn how to set up Laravel Passport, generate access tokens, and create a secure login API in Laravel. Enhance the security of your APIs with OAuth2 authentication.
+
+- [Laravel Social Login Example](https://its-me.in/blog/laravel-social-login-example) - Learn how to implement social login with Google, Facebook, GitHub, and Twitter in a Laravel application. Step-by-step guide with code examples.
 
 ## 🌱 What I'm Learning
 
