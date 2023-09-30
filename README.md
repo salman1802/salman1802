@@ -47,9 +47,11 @@ I'm constantly exploring new technologies and tools. Currently, I'm focused on:
 - Experimenting with AWS server stuff.
 
 ## 📫 Get in Touch
-
+- Portfolio: [ItsMe](https://its-me.in)
 - LinkedIn: [Salman Ansari](https://in.linkedin.com/in/salman-ansari-861b4819a)
-- Twitter: [@YourTwitterHandle](link_to_twitter)
+- Twitter: [@salman](https://twitter.com/SalmanFarsi1253?t=1vld577o_0q7Lqd7v0GQQQ&s=09)
+- Facebook: [@salman12532](https://www.facebook.com/salman.farsi.12532?mibextid=ZbWKwL)
+- Instagram: [@ansari_salman1802](https://www.instagram.com/ansari_salman1802/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
 - Email: [Salman.ansari@gmail.com](mailto:salman.ansari.1253218@gmail.com)
 
 Feel free to reach out to me if you'd like to collaborate on a project, have a question, or just want to chat about web development!
