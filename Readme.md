@@ -82,7 +82,6 @@ I’ve published and maintain several Laravel packages on **Packagist**:
 
 ## 📫 Connect with Me  
 
-- 🌐 Portfolio: [ItsMe](https://its-me.in)  
 - 💼 LinkedIn: [Salman Ansari](https://in.linkedin.com/in/salman-ansari-861b4819a)  
 - 🐦 Twitter: [@salman](https://twitter.com/SalmanFarsi1253?t=1vld577o_0q7Lqd7v0GQQQ&s=09)  
 - 📘 Facebook: [@salman12532](https://www.facebook.com/salman.farsi.12532?mibextid=ZbWKwL)  
